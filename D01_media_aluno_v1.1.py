@@ -27,5 +27,3 @@ while True:
     elif nova_ope != 's':
         print('Opção inválida. Por favor, digite "S" para Sim ou "N" para Não.')
 print('Espero que tenha gostado -> Volte Sempre ! <-')
-
-replace(1.)
